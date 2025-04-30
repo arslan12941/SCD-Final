@@ -4,4 +4,4 @@ spring:
 
   cloud:
     config:
-      uri: http://arslan:arslan12941@localhost:9999
+      uri: http://arslan:arslan12941@localhost:8888
